@@ -1,8 +1,8 @@
-# *Instagram Clone HTML/CSS Project*
+# Instagram Clone HTML/CSS Project
 
 This project is a simple clone of the Instagram web interface created using HTML and CSS. It replicates the basic layout and design of Instagram, including the header, posts, and user profile sections.
 
-## *Features*
+## Features
 
 **Header**: The header section includes the Instagram logo, a search box, and navigation links to home, messages, new post, explore, notifications, and user profile.
 
